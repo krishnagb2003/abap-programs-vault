@@ -1,6 +1,6 @@
 # ABAP Programs Vault
 
-A personal web app to store, view, search, and manage your ABAP practice programs.
+A personal web app to store, view, search, and manage your SAP ABAP practice programs.
 Built with Python (Flask) + SQLite backend and a plain HTML frontend.
 
 ---
@@ -194,11 +194,11 @@ SQLite Database (abap_vault.db)
 2. Open terminal with `Ctrl + ~`
 3. Run `py server.py`
 4. Right-click `index.html` → Open with Live Server
-5. Start coding! 🚀
+5. Start coding! 
 
 ---
 
 ## Author
 
-Krishna G B
-ABAP Developer Intern | BEC Bagalkote | VTU 2022–2026
+Krishnakumar G B
+ABAP Developer Intern | BEC Bagalkote
