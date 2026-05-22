@@ -200,5 +200,10 @@ SQLite Database (abap_vault.db)
 
 ## Author
 
+<<<<<<< HEAD
 Krishnakumar G B,
 ABAP Developer Intern | BEC Bagalkote
+=======
+Krishnakumar G B
+ABAP Developer Intern | BEC Bagalkote | VTU 2022–2026
+>>>>>>> 5919da6 (Update)
